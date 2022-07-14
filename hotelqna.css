@@ -1,0 +1,17 @@
+body{
+    background-image: url(hotel-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+h2{
+    color: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
